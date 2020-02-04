@@ -87,7 +87,7 @@ nav ul li a:hover{
             width: 1600px;
             height: 600px;
             clear: both;
-            position: static;
+            position: relative;
             margin-top: 150px;
             
             -webkit-transition: left 2s;
