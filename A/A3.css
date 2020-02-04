@@ -64,7 +64,6 @@ nav ul li a:hover{
 .slider-holder{
     width: 800px;
     height: 800px;
-    background-color: purple;
     margin-left: auto;
     margin-right: auto;
     margin-top: 0px;
@@ -190,3 +189,10 @@ h1 {
     padding: 75px;
     font: bold;
 }
+#home,#review{
+            background-color: black;
+        }
+        #review h1{
+            color: white;
+        }
+
