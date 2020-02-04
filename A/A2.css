@@ -127,4 +127,9 @@ nav ul li a:hover{
             border-radius: 5px;
             background-color: black;
         }
-
+#home,#review{
+	background-color: black;
+}
+#review h1{
+	color: white;
+}
