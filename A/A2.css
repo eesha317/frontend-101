@@ -87,7 +87,7 @@ nav ul li a:hover{
             width: 1600px;
             height: 600px;
             clear: both;
-            position: relative;
+            position: static;
             margin-top: 150px;
             
             -webkit-transition: left 2s;
@@ -101,7 +101,7 @@ nav ul li a:hover{
             float: left;
             margin: 0px;
             padding: 0px;
-            position: relative;
+            position: static;
         }
         
         #slider-image-1:target ~ .image-holder
